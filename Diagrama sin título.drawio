@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T03:13:16.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="XkLeVL3xgI7JkJ-ua9ma" version="14.0.1" type="device"><diagram id="8KtglLWpI5dE6YlecOW0" name="Page-1">jZPBboMwDIafhmOlQqqOHlfKNnXapKmHTrt5xIRogaAQCu3Tz5RQQFOlXSLz2Y5j/8ZjUd4+GyizN81RecGStx7beUEQrkM6O3DuwYqteiCM5D3yR3CQF3Rw6WgtOVazQKu1srKcw0QXBSZ2xsAY3czDUq3mVUsQ+AccElB/6VFym7m2goeRv6AU2VDZX296Tw5DsOukyoDrZoJY7LHIaG17K28jVN3shrn0eU93vLeHGSzsfxI+eXzc16GI3y8fYvHV7KPX/cLdcgJVu4Z3EoSBHDrNkA4FFZ1ooeyMayP2PEzHYku1t5nNFQGfTFBSFGQn9Co0BE5orKR5PjpHLjnv0rdNJi0eSki6uxpaHmJG1wXH7sFL+kqlUpFW2lyLMQ4Ypgnxyhr9gxPPOgnxOyWP64ZKYnt3TP5t+LS0qHO05kwhLoEFbkGHhXXyNaP6fuhYNlF+4xi4hRO3m0dNyHCyDJ+j/Fff5B9i8S8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-11T03:44:32.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="yy0zoFcqUeTyqy5XJXMC" version="14.0.1" type="github">
+  <diagram id="8KtglLWpI5dE6YlecOW0" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XdEWJu8gENzQg-ZwJCKJ-1" value="Diagrama de las etapas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="324" y="40" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DgASHZGIPMTWJSRpMwl8-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
