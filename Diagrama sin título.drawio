@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T04:01:33.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="UC7qf1OYIA9cJP8_8W-N" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T04:03:36.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="8xp1Drmoi1n-zPf2RnH8" version="14.0.1" type="github">
   <diagram id="8KtglLWpI5dE6YlecOW0" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,42 @@
         </mxCell>
         <mxCell id="28hNiHxvH_89Pxa6QNsm-14" value="&lt;span lang=&quot;ES&quot; class=&quot;TextRun  BCX8 SCXW120230351&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: justify ; background-color: rgb(255 , 255 , 255) ; line-height: 17.2667px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial_embeddedfont&amp;#34; , &amp;#34;arial_msfontservice&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX8 SCXW120230351&quot; style=&quot;margin: 0px ; padding: 0px ; background-color: inherit&quot;&gt;Se tiene un producto d&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;ES&quot; class=&quot;TextRun  BCX8 SCXW120230351&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: justify ; background-color: rgb(255 , 255 , 255) ; line-height: 17.2667px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial_embeddedfont&amp;#34; , &amp;#34;arial_msfontservice&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX8 SCXW120230351&quot; style=&quot;margin: 0px ; padding: 0px ; background-color: inherit&quot;&gt;e software&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;ES&quot; class=&quot;TextRun  BCX8 SCXW120230351&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: justify ; background-color: rgb(255 , 255 , 255) ; line-height: 17.2667px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial_embeddedfont&amp;#34; , &amp;#34;arial_msfontservice&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX8 SCXW120230351&quot; style=&quot;margin: 0px ; padding: 0px ; background-color: inherit&quot;&gt;&amp;nbsp;que&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;ES&quot; class=&quot;TextRun  BCX8 SCXW120230351&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 11pt ; text-align: justify ; background-color: rgb(255 , 255 , 255) ; line-height: 17.2667px ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;arial_embeddedfont&amp;#34; , &amp;#34;arial_msfontservice&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX8 SCXW120230351&quot; style=&quot;margin: 0px ; padding: 0px ; background-color: inherit&quot;&gt;&amp;nbsp;puede ser liberado en cualquier momento&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="860" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XM9-7c5iYSd4xm7fiqYx-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="28hNiHxvH_89Pxa6QNsm-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="480" as="sourcePoint" />
+            <mxPoint x="437" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM9-7c5iYSd4xm7fiqYx-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28hNiHxvH_89Pxa6QNsm-11" target="28hNiHxvH_89Pxa6QNsm-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM9-7c5iYSd4xm7fiqYx-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="28hNiHxvH_89Pxa6QNsm-12" target="28hNiHxvH_89Pxa6QNsm-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="560" as="sourcePoint" />
+            <mxPoint x="430" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM9-7c5iYSd4xm7fiqYx-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="28hNiHxvH_89Pxa6QNsm-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="740" as="sourcePoint" />
+            <mxPoint x="430" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM9-7c5iYSd4xm7fiqYx-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28hNiHxvH_89Pxa6QNsm-9" target="28hNiHxvH_89Pxa6QNsm-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="800" as="sourcePoint" />
+            <mxPoint x="430" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM9-7c5iYSd4xm7fiqYx-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="28hNiHxvH_89Pxa6QNsm-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="510" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
